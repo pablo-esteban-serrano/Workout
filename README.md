@@ -3,7 +3,7 @@
 A small, distraction-free workout tracker for minimalist Android phones — built for the [Light Phone III](https://www.thelightphone.com/) and [Mudita Kompakt](https://mudita.com/), and connects to a [Polar Verity Sense](https://www.polar.com/en/verity-sense) (or any standard Bluetooth LE heart rate strap) for live heart rate.
 
 No accounts, no cloud sync, no ads, no accent colors — just start a workout, see your heart rate and elapsed time, and end up with a local history you can look back on.
-![Screenshot](https://github.com/pablo-esteban-serrano/Workout/blob/master/Workout_screen.png)
+![Screenshot](https://github.com/pablo-esteban-serrano/Workout/blob/master/appscreens.png)
 ## Features
 
 - **7 workout types**: Walk, Run, Bike, Stationary Bike, Core, Weightlifting, Punching Bag
